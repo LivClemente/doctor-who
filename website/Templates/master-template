@@ -10,9 +10,16 @@
 </head>
 
 <body>
-<h1>This is My Doctor Who Website</h1>
-<h2>There are many like it</h2>
-<h3>But this one is mine</h3>
-<h4>Olivia Clemente</h4>
+<table width="200" border="1">
+  <tr>
+    <td>[Navigation]</td>
+  </tr>
+  <tr>
+    <td>[banner go home]</td>
+  </tr>
+  <tr>
+    <td>[Secondary Naviagation Goes Here] [General Content Goes Here]</td>
+  </tr>
+</table>
 </body>
 </html>

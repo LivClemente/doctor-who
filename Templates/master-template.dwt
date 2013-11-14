@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --><!-- TemplateParam name="doctors secondary navagation" type="boolean" value="true" --><!-- TemplateParam name="Doctors Secondary nav" type="boolean" value="false" -->
+</head>
+
+<body>
+<table width="1420" border="1">
+  <tr>
+    <td width="508"><a href="../website/index.html">Home</a> <a href="../website/the-doctors/index.html">The Doctors</a> <a href="../website/Campanions/index.html">The Campanions</a><a href="../website/the-villians/index.html"> The Villians</a></td>
+  </tr>
+  <tr>
+    <td>[Banner to go Home]</td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginIf cond="_document['Doctors Secondary nav']" -->
+    <table width="511" height="791" border="1">
+      <tr>
+        <td width="501"><a href="../website/the-doctors/doctor-01-william-hartnell.html">The First Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-02-patrick-troughton.html">The Second Doctor</a></td>
+      </tr>
+      <tr>
+        <td background="../website/the-doctors/doctor-03-jon-pertwee.html"><a href="../website/the-doctors/doctor-03-jon-pertwee.html">The Thrid Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-04-tom-baker.html">The Fourth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-05-peter-davison.html">The Fifth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-06-colin-baker.html">The Sixth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-07-sylvester-mccoy.html">The Seventh Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-08-paul-mcgann.html">The Eighth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-09-christopher-eccleston.html">The Ninth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-10-david-tennant.html">The Tenth Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-11-matt-smith.html">The Eleventh Doctor</a></td>
+      </tr>
+      <tr>
+        <td><a href="../website/the-doctors/doctor-12-peter-capaldi.html">The Twelth Doctor</a></td>
+      </tr>
+    </table>
+    <!-- TemplateEndIf --><!-- TemplateEndIf --></td>
+    <td width="896" height="806"><!-- TemplateBeginEditable name="general content" -->[General Content goes here]<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
