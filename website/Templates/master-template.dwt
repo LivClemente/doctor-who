@@ -10,6 +10,7 @@
                 <!-- TemplateParam name="The Doctors Secondary Nav" type="boolean" value="false" -->
                 <!-- TemplateParam name="The Companions Secondary Nav" type="boolean" value="false" -->
                 <!-- TemplateParam name="The Villains Secondary Nav" type="boolean" value="false" -->
+        <link href="../style.css" rel="stylesheet" type="text/css">
         </head>
         
         <body>
@@ -18,7 +19,7 @@
                                 <td colspan="2"><a href="../website/index.html">Home</a> <a href="../website/the-doctors/index.html">The Doctors</a> <a href="../website/Campanions/index.html">The Companions</a> <a href="../website/the-villians/index.html">The Villains</a></td>
                         </tr>
                         <tr>
-                                <td colspan="2">[Banners go here]</td>
+                                <td colspan="2"><!-- TemplateBeginEditable name="banner" -->[Banners go here]<!-- TemplateEndEditable --></td>
                         </tr>
                         <tr>
                                 <td><!-- TemplateBeginIf cond="_document['The Doctors Secondary Nav']" -->
@@ -113,7 +114,17 @@
                                                 </tbody>
                                         </table>
                                         <!-- TemplateEndIf --></td>
-                                <td><!-- TemplateBeginEditable name="Content" -->[General Content Goes Here]<!-- TemplateEndEditable --></td>
+                                        
+                                        
+                                        <td>
+                                <div class="doctor-who-content">        
+                                        
+								<!-- TemplateBeginEditable name="Content" -->
+                                  <h1>Welcome To My Doctor Who Site</h1>
+                                <!-- TemplateEndEditable -->
+                                
+                                </div>
+                                      </td>
                         </tr>
                 </table>
         </body>
