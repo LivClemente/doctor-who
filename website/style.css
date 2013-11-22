@@ -1,4 +1,31 @@
 .doctor-who-content img 
 	{
-		float: left;
-	}
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 35px;
+	}body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	background-color: #1c1c1c;
+}
+td {
+	background-color: #a0acb9;
+	text-align: left;
+	vertical-align: top;
+}
+
+.wrapper {
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.doctor-who-content p {
+	padding-right: 25px;
+	line-height: 30px;
+	font-size: 16px;
+}
+.doctor-who-content {
+	background-color: #dadee3;
+}
